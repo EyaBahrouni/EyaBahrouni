@@ -1,9 +1,9 @@
 Hi 👋 I'm Eya Bahrouni
 
-
 ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 A passionate Android Developer from Tunisia
+
 
 - 🌱 Currently learning: Android, JS, Flutter
 - 👯 Looking to collaborate on: Android projects
@@ -57,7 +57,7 @@ A passionate Android Developer from Tunisia
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/bahrouni-eya)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://x.com/AyaBahrouni)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/YourProfile)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/EyaBahrouni)
 
 ## Languages and Tools:
@@ -69,6 +69,6 @@ A passionate Android Developer from Tunisia
 [![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)](https://www.python.org)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EyaBahrouni&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EyaBahrouni&show_icons=true&theme=radical)

@@ -1,6 +1,6 @@
 Hi 👋 I'm Eya Bahrouni
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+"C:\Users\eya05\Downloads\Eya bahrouni.gif"
 
 
 A passionate Android Developer from Tunisia

@@ -1,6 +1,6 @@
 Hi 👋 I'm Eya Bahrouni
 
-![Bannière Exemple](https://example.com/your-banner-image-url)
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 A passionate Android Developer from Tunisia

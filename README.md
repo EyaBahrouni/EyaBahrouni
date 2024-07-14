@@ -1,7 +1,6 @@
 Hi 👋 I'm Eya Bahrouni
 
-![Nom Alternatif]("[C:\Users\eya05\Downloads\Eya bahrouni.gif](https://www.canva.com/design/DAGK7o-alvM/E2eBX8YlXAZ2HW5SMsDfmg/watch?utm_content=DAGK7o-alvM&utm_campaign=designshare&utm_medium=link&utm_source=editor)")
-
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 
